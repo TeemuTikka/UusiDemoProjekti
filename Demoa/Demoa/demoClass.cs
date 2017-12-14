@@ -8,5 +8,13 @@ namespace Demoa
 {
     class demoClass
     {
+        public demoClass()
+        {
+
+        }
+
+        public void metodi ()
+        { }
+
     }
 }
