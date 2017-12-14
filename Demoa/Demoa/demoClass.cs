@@ -8,10 +8,13 @@ namespace Demoa
 {
     class demoClass
     {
-        public demoClass()
+        private string teksti;
+        public demoClass(string test)
         {
-
+            teksti = test;
         }
+
+        public string Teksti { get => teksti; set => teksti = value; }
 
         public void metodi ()
         { }
