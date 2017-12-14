@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Demoa
 {
-    class Program
+    class demoClass
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Heippa hei!");
-        }
     }
 }
